@@ -7,4 +7,4 @@ esx_governmentjob made from esx_policejob
 - upload the sql file to your database
 - set the job on your server, and enjoy!
 
-you must change coords on config.lua
+you must change coords and cars on config.lua
